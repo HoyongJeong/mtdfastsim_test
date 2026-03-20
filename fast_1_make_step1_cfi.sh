@@ -1,4 +1,4 @@
-# in: /afs/cern.ch/user/h/hojeong/fastsim/CMSSW_15_0_18/src going to execute cd 29634.0_TTbar_14TeV+Run4D110
+# Based on runTheMatrix.py -w upgrade -l 29634.0 --dryRun --command="--no_exec"
 cmsDriver.py TTbar_14TeV_TuneCP5_cfi \
 	-s             GEN,SIM \
 	--no_exec \
