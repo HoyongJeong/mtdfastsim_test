@@ -1,0 +1,8 @@
+GEN,SIM,ENDJOB
+We have determined that this is simulation (if not, rerun cmsDriver.py with --data)
+Step: GEN Spec: 
+Loading generator fragment from Configuration.Generator.TTbar_14TeV_TuneCP5_cfi
+Step: SIM Spec: 
+Step: ENDJOB Spec: 
+customising the process with customiseMTD from FastSimulation/MTD/mtdSimHitProducer_cfi
+Config file fast_cfg.py created
