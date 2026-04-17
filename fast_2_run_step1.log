@@ -1,4 +1,4 @@
-MTDSimHitProducer constructed
+[MTDSimHitProducer::MTDSimHitProducer] Constructed
 
 **************************************************************
  Geant4 version Name: geant4-11-02-patch-02 [MT]   (21-June-2024)
@@ -20,7 +20,7 @@ MTDSimHitProducer constructed
  |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.311      |  | 
  |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change:  8 Mar 2024  |  | 
  |  |   P       Y      T    H   H   I   A   A                                      |  | 
- |  |   P       Y      T    H   H  III  A   A    Now is 20 Mar 2026 at 13:38:44    |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 17 Apr 2026 at 10:42:17    |  | 
  |  |                                                                              |  | 
  |  |   Program documentation and an archive of historic versions is found on:     |  | 
  |  |                                                                              |  | 
@@ -64,7 +64,7 @@ MTDSimHitProducer constructed
  |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.311      |  | 
  |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change:  8 Mar 2024  |  | 
  |  |   P       Y      T    H   H   I   A   A                                      |  | 
- |  |   P       Y      T    H   H  III  A   A    Now is 20 Mar 2026 at 13:38:44    |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 17 Apr 2026 at 10:42:17    |  | 
  |  |                                                                              |  | 
  |  |   Program documentation and an archive of historic versions is found on:     |  | 
  |  |                                                                              |  | 
@@ -197,7 +197,7 @@ NNPDF31_nnlo_as_0118 PDF set, member #0, version 1; LHAPDF ID = 303600
 
  --------  End PYTHIA Particle Data Table  -----------------------------------------------------------------------------------------
 
-Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 20-Mar-2026 13:38:44.989 CET
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 17-Apr-2026 10:42:18.191 CEST
 
  --------  PYTHIA Info Listing  ---------------------------------------- 
  
@@ -240,7 +240,8 @@ Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 20
                                    Charge sum:  0.000           Momentum sum:      0.000      0.000   -859.925   1102.734    690.328
 
  --------  End PYTHIA Event Listing  -----------------------------------------------------------------------------------------------
-MTDSimHitProducer::produce executed
+[MTDSimHitProducer::produce] Executed
+[MTDSimHitProducer::produce]  BTL hits: 310  ETL hits: 0
 #--------------------------------------------------------------------------
 #                         FastJet release 3.4.1
 #                 M. Cacciari, G.P. Salam and G. Soyez                  
