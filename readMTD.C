@@ -50,16 +50,16 @@ void readMTD(const char* filename = "step1.root", bool isFull = true)
 			for ( size_t i = 0; i < btlHits -> size(); ++i )
 			{
 				const auto& hit = (*btlHits)[i];
-				if ( hit . detUnitId() == 1661347213 )
+//				if ( hit . detUnitId() == 1661347213 )
 				printf("  Hit %3lu | PDG: %5d | Time: %6.3f ns | Eloss: %6.2f keV | Pos: (%5.2f, %5.2f) | DetId: %d\n", 
 					   i, hit . particleType(), hit . tof(), hit . energyLoss() * 1.e6, 
 					   hit . localPosition() . x(), hit . localPosition() . y(), hit . detUnitId());
 
-//				if ( i > MAXHITS )
-//				{
-//					std::cout << "  ... (only showing first " << MAXHITS << " hits)" << std::endl;
-//					break;
-//				}
+				if ( i > MAXHITS )
+				{
+					std::cout << "  ... (only showing first " << MAXHITS << " hits)" << std::endl;
+					break;
+				}
 			}
 		}
 

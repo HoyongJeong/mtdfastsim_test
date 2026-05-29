@@ -1,0 +1,11 @@
+SIM,RECOBEFMIX,DIGI:pdigi_valid,DIGI2RAW,RECO:reconstruction_trackingOnly,VALIDATION:@trackingOnlyValidation
+We have determined that this is simulation (if not, rerun cmsDriver.py with --data)
+entry file:step1-gen.root
+Step: SIM Spec: 
+Step: RECOBEFMIX Spec: 
+Step: DIGI Spec: ['pdigi_valid']
+Step: DIGI2RAW Spec: 
+Step: RECO Spec: ['reconstruction_trackingOnly']
+Step: VALIDATION Spec: ['@trackingOnlyValidation']
+@trackingOnlyValidation in preparing validation
+Config file step2-fast_cfg.py created

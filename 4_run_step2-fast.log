@@ -1,0 +1,37 @@
+29-May-2026 14:22:03 CEST  Initiating request to open file file:step1-gen.root
+29-May-2026 14:22:03 CEST  Successfully opened file file:step1-gen.root
+[MTDSimHitProducer::MTDSimHitProducer] Constructed
+%MSG-w UnexpectedMagneticFieldUsingNonIdealPixelTemplate:   SiPixelTemplateDBObjectESProducer:siPixelTemplateDBObjectESProducer@callESModule  29-May-2026 14:22:25 CEST Run: 1 Stream: 0
+Magnetic field is 3.8112 Template Magnetic field is 0
+%MSG
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 29-May-2026 14:22:28.468 CEST
+[MTDSimHitProducer::produce] Executed
+%MSG-w MeasurementTrackerEventProducer:   MeasurementTrackerEventProducer:MeasurementTrackerEvent  29-May-2026 14:22:29 CEST Run: 1 Event: 1
+input Phase2TrackerCluster1D collection siPhase2Clusters is not valid
+%MSG
+%MSG-w TrackListMerger:  TrackListMerger:generalTracksBeforeMixing  29-May-2026 14:22:29 CEST Run: 1 Event: 1
+TrackCollection InputTag:  label = jetCoreRegionalStepTracks, instance =  not found
+%MSG
+%MSG-e HGCDigitizer:  MixingModule:mix 29-May-2026 14:22:29 CEST Run: 1 Event: 1
+ @ accumulate : can't find HGCHitsEE collection of g4SimHits
+%MSG
+%MSG-e HGCDigitizer:  MixingModule:mix 29-May-2026 14:22:29 CEST Run: 1 Event: 1
+ @ accumulate : can't find HGCHitsHEback collection of g4SimHits
+%MSG
+%MSG-e HGCDigitizer:  MixingModule:mix 29-May-2026 14:22:29 CEST Run: 1 Event: 1
+ @ accumulate : can't find HGCHitsHEfront collection of g4SimHits
+%MSG
+#--------------------------------------------------------------------------
+#                         FastJet release 3.4.1
+#                 M. Cacciari, G.P. Salam and G. Soyez                  
+#     A software package for jet finding and analysis at colliders      
+#                           http://fastjet.fr                           
+#	                                                                      
+# Please cite EPJC72(2012)1896 [arXiv:1111.6097] if you use this package
+# for scientific work and optionally PLB641(2006)57 [hep-ph/0512210].   
+#                                                                       
+# FastJet is provided without warranty under the GNU GPL v2 or higher.  
+# It uses T. Chan's closest pair algorithm, S. Fortune's Voronoi code
+# and 3rd party plugin jet algorithms. See COPYING file for details.
+#--------------------------------------------------------------------------
+29-May-2026 14:22:33 CEST  Closed file file:step1-gen.root
