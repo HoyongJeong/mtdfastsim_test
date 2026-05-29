@@ -28,7 +28,7 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
     // Histograms
     // ----------------------------
 
-    // BTL: r-z plane (실린더이므로 r은 일정, z vs phi)
+    // BTL: r-z plane
     TH2F* hBTL_xy   = new TH2F("hBTL_xy",   "BTL hits (x-y);x [cm];y [cm]",
                                  300, -130., 130., 300, -130., 130.);
     TH2F* hBTL_rz   = new TH2F("hBTL_rz",   "BTL hits (r-z);z [cm];r [cm]",
@@ -66,8 +66,6 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
         // BTL
         if (hBTL.isValid()) {
             for (const auto& hit : *hBTL.product()) {
-                // PSimHit의 localPosition()은 local frame
-                // 현재 구현에서는 global coords를 local로 넣었으므로 그대로 사용
                 float x   = hit.localPosition().x();
                 float y   = hit.localPosition().y();
                 float z   = hit.localPosition().z();
@@ -112,7 +110,6 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
 
     cBTL->cd(1);
     hBTL_xy->Draw("COLZ");
-    // BTL 반경 원 표시
     TEllipse* eBTL = new TEllipse(0, 0, 116., 116.);
     eBTL->SetFillStyle(0);
     eBTL->SetLineColor(kRed);
@@ -153,13 +150,11 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
     h3D->Draw("BOX2");
     c3D->SaveAs("mtd_hits_3d.png");
 
-    // Canvas 4: r-z 통합 (BTL + ETL 같이)
     TCanvas* cRZ = new TCanvas("cRZ", "MTD r-z view", 900, 600);
     TH2F* hRZ = new TH2F("hRZ", "MTD hits r-z (all);|z| [cm];r [cm]",
                            320, 0., 320., 130, 0., 130.);
     hRZ->SetStats(0);
 
-    // BTL를 |z|로 다시 채우기
     for (int bx = 1; bx <= hBTL_rz->GetNbinsX(); bx++) {
         for (int by = 1; by <= hBTL_rz->GetNbinsY(); by++) {
             double val = hBTL_rz->GetBinContent(bx, by);
@@ -170,7 +165,6 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
             }
         }
     }
-    // ETL를 |z|로 다시 채우기
     for (int bx = 1; bx <= hETL_rz->GetNbinsX(); bx++) {
         for (int by = 1; by <= hETL_rz->GetNbinsY(); by++) {
             double val = hETL_rz->GetBinContent(bx, by);
@@ -184,7 +178,6 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
 
     hRZ->Draw("COLZ");
 
-    // BTL 영역 박스
     TLine* lBTL_r1 = new TLine(0,   116., 260., 116.);
     TLine* lBTL_r2 = new TLine(0,   116., 260., 116.);
     TLine* lBTL_z1 = new TLine(260., 110., 260., 122.);
@@ -195,7 +188,6 @@ void plotMTDHits(const char* filename = "step2-fast.root") {
 //        l->Draw();
     }
 
-    // ETL 영역 선
     TLine* lETL = new TLine(290., 31., 290., 120.);
     lETL->SetLineColor(kBlue);
     lETL->SetLineWidth(2);
