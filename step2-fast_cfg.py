@@ -156,9 +156,6 @@ process = customiseEarlyDelete(process)
 # End adding early deletion
 
 
-
-
-
 # MTD FastSim customisation
 from FastSimulation.MTD.MTDFastSim_cff import customiseMTDFastSim
 process = customiseMTDFastSim(process)
