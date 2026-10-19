@@ -1,0 +1,13 @@
+17-Oct-2026 17:34:46 CEST  Initiating request to open file file:step1-gen.root
+17-Oct-2026 17:34:47 CEST  Successfully opened file file:step1-gen.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.486 CEST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.513 CEST
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.514 CEST
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.514 CEST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.516 CEST
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.517 CEST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.517 CEST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.518 CEST
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.519 CEST
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 17-Oct-2026 17:36:50.520 CEST
+17-Oct-2026 17:36:50 CEST  Closed file file:step1-gen.root

@@ -1,0 +1,6 @@
+GEN,ENDJOB
+We have determined that this is simulation (if not, rerun cmsDriver.py with --data)
+Step: GEN Spec: 
+Loading generator fragment from Configuration.Generator.SingleMuPt15Eta0_0p4_cfi
+Step: ENDJOB Spec: 
+Config file step1-gen_cfg.py created

@@ -1,0 +1,24 @@
+17-Oct-2026 20:46:05 CEST  Initiating request to open file file:step1-gen.root
+17-Oct-2026 20:46:06 CEST  Successfully opened file file:step1-gen.root
+
+**************************************************************
+ Geant4 version Name: geant4-11-04-patch-02 [MT]   (12-June-2026)
+  << in Multi-threaded mode >> 
+                       Copyright : Geant4 Collaboration
+                      References : NIM A 506 (2003), 250-303
+                                 : IEEE-TNS 53 (2006), 270-278
+                                 : NIM A 835 (2016), 186-225
+                             WWW : http://geant4.org/
+**************************************************************
+
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.131 CEST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.297 CEST
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.374 CEST
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.474 CEST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.557 CEST
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.624 CEST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.720 CEST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.793 CEST
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.867 CEST
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 17-Oct-2026 20:47:41.943 CEST
+17-Oct-2026 20:47:42 CEST  Closed file file:step1-gen.root

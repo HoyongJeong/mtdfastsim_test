@@ -1,0 +1,1087 @@
+17-Oct-2026 21:33:57 CEST  Initiating request to open file file:step1-gen.root
+17-Oct-2026 21:33:57 CEST  Successfully opened file file:step1-gen.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.607 CEST
+fwdlayer idx=0 z=-303.253
+fwdlayer idx=1 z=-303
+fwdlayer idx=2 z=-302.5
+fwdlayer idx=3 z=-300.1
+fwdlayer idx=4 z=-265.01
+fwdlayer idx=5 z=-265
+fwdlayer idx=6 z=-230.769
+fwdlayer idx=7 z=-221.567
+fwdlayer idx=8 z=-200.959
+fwdlayer idx=9 z=-185.288
+fwdlayer idx=10 z=-175
+fwdlayer idx=11 z=-155
+fwdlayer idx=12 z=-139.7
+fwdlayer idx=13 z=-131.18
+fwdlayer idx=14 z=-110.942
+fwdlayer idx=15 z=-84.238
+fwdlayer idx=16 z=-67.168
+fwdlayer idx=17 z=-52.62
+fwdlayer idx=18 z=-41.223
+fwdlayer idx=19 z=-32.295
+fwdlayer idx=20 z=-25.3
+fwdlayer idx=21 z=25.3
+fwdlayer idx=22 z=32.295
+fwdlayer idx=23 z=41.223
+fwdlayer idx=24 z=52.62
+fwdlayer idx=25 z=67.168
+fwdlayer idx=26 z=84.238
+fwdlayer idx=27 z=110.942
+fwdlayer idx=28 z=131.18
+fwdlayer idx=29 z=139.7
+fwdlayer idx=30 z=155
+fwdlayer idx=31 z=175
+fwdlayer idx=32 z=185.288
+fwdlayer idx=33 z=200.959
+fwdlayer idx=34 z=221.567
+fwdlayer idx=35 z=230.769
+fwdlayer idx=36 z=265
+fwdlayer idx=37 z=265.01
+fwdlayer idx=38 z=300.1
+fwdlayer idx=39 z=302.5
+fwdlayer idx=40 z=303
+fwdlayer idx=41 z=303.253
+nav: BAR idx=0 r=2.9 z=19.7719 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=21.8918 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=3.90516 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=22 r=5.17697 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: BAR idx=2 r=6.4181 z=39.1221 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=23 r=6.80003 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=24 r=8.87121 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=3 r=10.76 z=63.0124 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=11.5153 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=26 r=14.6181 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=4 r=14.9436 z=86.0289 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=5 r=17.6 z=100.643 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=19.472 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=23.1505 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=24.6995 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: BAR idx=6 r=25.1679 z=142.277 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=30 r=27.4811 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=31.1161 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=32.9859 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=35.8342 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: BAR idx=7 r=37.5951 z=210.648 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=34 r=39.5795 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=41.2514 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=36 r=47.4705 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=8 dt=29.1306
+  cand BAR idx=7 dt=47376.2
+  cand FWD idx=37 dt=0.0101637
+nav: FWD idx=37 r=47.4723 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=8 dt=29.1206
+  cand BAR idx=7 dt=47375
+  cand FWD idx=38 dt=35.6646
+nav: BAR idx=8 r=52.6774 z=293.661 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=9 dt=90.0611
+  cand BAR idx=8 dt=47629.5
+  cand FWD idx=38 dt=6.54401
+nav: FWD idx=38 r=53.8471 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=9 dt=83.5218
+  cand BAR idx=8 dt=47723.6
+  cand FWD idx=39 dt=2.43929
+nav: FWD idx=39 r=54.283 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=9 dt=81.0865
+  cand BAR idx=8 dt=47759.5
+  cand FWD idx=40 dt=0.508186
+nav: FWD idx=40 r=54.3739 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=9 dt=80.5817
+  cand BAR idx=8 dt=47755
+  cand FWD idx=41 dt=0.257141
+nav: FWD idx=41 r=54.4199 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=417.486
+  cand FWD idx=5 dt=0.101637
+nav: FWD idx=5 r=54.438 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=417.384
+  cand FWD idx=6 dt=4.55842
+nav: FWD idx=6 r=55.2527 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=412.825
+  cand FWD idx=7 dt=13.2758
+nav: FWD idx=7 r=57.6252 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=399.548
+  cand FWD idx=8 dt=80.8603
+nav: FWD idx=8 r=72.0746 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=714.005 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=844.059 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=981.29 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=200.858 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-12.1215 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-14.2415 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=5.29612 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-31.4711 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=19 r=6.56789 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=18 r=8.19105 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=17 r=10.2629 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=3 r=10.76 z=-55.3554 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=12.9069 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=4 r=14.9436 z=-78.3733 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=16.0096 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=5 r=17.6 z=-92.9863 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=20.8643 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=24.5435 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: BAR idx=6 r=25.1679 z=-134.615 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=12 r=26.0924 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=28.8739 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=32.5098 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=34.38 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=37.2301 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=7 r=37.5951 z=-202.966 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=7 r=40.9779 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=42.6518 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=5 r=48.8786 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=48.8804 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: BAR idx=8 r=52.6774 z=-285.878 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=3 r=55.2649 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=55.7016 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=55.7925 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=55.8384 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=55.8566 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=56.672 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=59.0468 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=73.51 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-705.806 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-835.735 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-972.835 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=202.416 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.613 CEST
+nav: BAR idx=0 r=2.9 z=17.7907 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=20.0114 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=4.20347 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=22 r=5.41765 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: BAR idx=2 r=6.4181 z=38.0574 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=23 r=6.96771 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=24 r=8.94658 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=3 r=10.76 z=63.0638 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=11.4727 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=26 r=14.4365 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=4 r=14.9436 z=87.1589 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=5 r=17.6 z=102.459 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=19.0728 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=22.5865 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=24.0661 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: BAR idx=6 r=25.1679 z=146.045 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=30 r=26.7231 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=30.1965 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=31.9832 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=34.7048 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: BAR idx=7 r=37.5951 z=217.601 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=34 r=38.2837 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=39.8818 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=36 r=45.8264 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=8 dt=40.043
+  cand BAR idx=7 dt=49582.6
+  cand FWD idx=37 dt=0.0101497
+nav: FWD idx=37 r=45.8281 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=8 dt=40.0357
+  cand BAR idx=7 dt=49580.9
+  cand FWD idx=38 dt=35.6153
+nav: FWD idx=38 r=51.9212 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=8 dt=4.4203
+  cand BAR idx=7 dt=50036.4
+  cand FWD idx=39 dt=2.43593
+nav: FWD idx=39 r=52.3379 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=8 dt=1.98443
+  cand BAR idx=7 dt=50077.8
+  cand FWD idx=40 dt=0.507485
+nav: FWD idx=40 r=52.4247 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=8 dt=1.47803
+  cand BAR idx=7 dt=50076.8
+  cand FWD idx=41 dt=0.256788
+nav: FWD idx=41 r=52.4684 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=447.476
+  cand FWD idx=5 dt=0.101497
+nav: FWD idx=5 r=52.4858 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=447.374
+  cand FWD idx=6 dt=4.55216
+nav: FWD idx=6 r=53.2647 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=442.822
+  cand FWD idx=7 dt=13.2576
+nav: FWD idx=7 r=55.533 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=429.563
+  cand FWD idx=8 dt=80.7493
+nav: FWD idx=8 r=69.3478 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=744.116 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=880.141 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=1023.67 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=192.479 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-15.6155 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-17.8366 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=4.58104 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=19 r=5.7953 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: BAR idx=2 r=6.4181 z=-35.8824 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=18 r=7.34532 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=17 r=9.32399 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=3 r=10.76 z=-60.8918 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=11.8496 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=15 r=14.8132 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=4 r=14.9436 z=-84.9889 nextFwdIdx=15 prevFwdIdx=14
+nav: BAR idx=5 r=17.6 z=-100.29 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=19.4494 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=22.963 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=24.4421 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: BAR idx=6 r=25.1679 z=-143.881 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=11 r=27.0981 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=30.5703 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=32.3564 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=35.0771 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=7 r=37.5951 z=-215.463 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=7 r=38.6547 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=40.2512 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=5 r=46.1898 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=46.1915 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=52.2795 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: BAR idx=8 r=52.6774 z=-302.393 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=2 r=52.6959 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=52.7827 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=52.8262 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=52.8436 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=53.6208 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=55.8846 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=69.6717 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-742.939 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-879.24 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-1023.06 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=192.554 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.615 CEST
+nav: BAR idx=0 r=2.9 z=12.5165 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=13.6294 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=22.6713 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=7.32885 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=22 r=9.7523 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: BAR idx=3 r=10.76 z=35.2033 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=23 r=12.8459 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=4 r=14.9436 z=47.2767 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=16.7952 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=5 r=17.6 z=54.9426 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=21.8359 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=6 r=25.1679 z=76.7849 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=27.7502 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=27 r=37.0021 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=7 r=37.5951 z=112.653 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=28 r=44.0169 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=46.9702 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: FWD idx=30 r=52.2735 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: BAR idx=8 r=52.6774 z=156.165 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=31 r=59.2059 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=62.7717 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=68.2032 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: BAR idx=9 r=68.7739 z=202.606 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=34 r=75.3453 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=78.5344 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=10 r=86.0594 z=252.484 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=11 dt=68.085
+  cand BAR idx=10 dt=25451
+  cand FWD idx=36 dt=13.2469
+nav: FWD idx=36 r=90.3964 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=11 dt=54.838
+  cand BAR idx=10 dt=25528.6
+  cand FWD idx=37 dt=0.010584
+nav: FWD idx=37 r=90.3998 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=11 dt=54.8482
+  cand BAR idx=10 dt=25527.2
+  cand FWD idx=38 dt=37.1376
+nav: FWD idx=38 r=102.553 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=11 dt=17.7099
+  cand BAR idx=10 dt=25719.1
+  cand FWD idx=39 dt=2.54006
+nav: FWD idx=39 r=103.384 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=11 dt=15.1692
+  cand BAR idx=10 dt=25738.5
+  cand FWD idx=40 dt=0.529181
+nav: FWD idx=40 r=103.557 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=11 dt=14.6435
+  cand BAR idx=10 dt=25729.5
+  cand FWD idx=41 dt=0.267756
+nav: FWD idx=41 r=103.645 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=77.5204
+  cand FWD idx=5 dt=0.105833
+nav: FWD idx=5 r=103.679 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=77.4145
+  cand FWD idx=6 dt=4.74659
+nav: FWD idx=6 r=105.232 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=72.6679
+  cand FWD idx=7 dt=13.8238
+nav: FWD idx=7 r=109.754 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=58.844
+  cand FWD idx=8 dt=84.1982
+nav: BAR idx=0 r=129 z=376.501 nextFwdIdx=8 prevFwdIdx=7
+  cand BAR idx=1 dt=72.1827
+  cand BAR idx=0 dt=26284.1
+  cand FWD idx=8 dt=25.3543
+nav: FWD idx=8 r=137.291 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=1 r=152.6 z=444.706 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=516.699 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=3 r=300 z=871.47 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=382.292 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-4.22336 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-5.33618 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-14.3804 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=10.2002 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=3 r=10.76 z=-26.9162 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=19 r=12.623 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: BAR idx=4 r=14.9436 z=-38.9923 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=18 r=15.7165 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: BAR idx=5 r=17.6 z=-46.6582 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=17 r=19.6648 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=16 r=24.7034 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=6 r=25.1679 z=-68.5091 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=30.6182 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=7 r=37.5951 z=-104.373 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=39.8706 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=46.8812 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=49.831 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: BAR idx=8 r=52.6774 z=-147.921 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=11 r=55.1281 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=62.0519 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=65.6133 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: BAR idx=9 r=68.7739 z=-194.418 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=8 r=71.038 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=78.1712 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=81.3562 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=10 r=86.0594 z=-244.358 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=93.2032 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=93.2067 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=105.354 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=106.185 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=106.358 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=106.446 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=106.481 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=108.034 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=112.557 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: BAR idx=0 r=129 z=-368.393 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=1 r=140.099 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=1 r=152.6 z=-436.579 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-508.555 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=3 r=300 z=-863.246 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=385.146 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.617 CEST
+nav: BAR idx=0 r=2.9 z=5.41992 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=6.5635 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=15.8563 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=9.60092 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=3 r=10.76 z=28.7403 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=11.9577 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: BAR idx=4 r=14.9436 z=41.1557 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=23 r=14.9663 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=5 r=17.6 z=49.0389 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=18.8067 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=25 r=23.7086 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=6 r=25.1679 z=71.499 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=29.4597 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=7 r=37.5951 z=108.387 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=38.4559 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=45.2726 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=48.1423 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: BAR idx=8 r=52.6774 z=153.165 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=30 r=53.2954 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=60.0314 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=63.4961 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=68.7723 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: BAR idx=9 r=68.7739 z=200.964 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=34 r=75.7101 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=78.8085 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=10 r=86.0594 z=252.306 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=11 dt=69.8675
+  cand BAR idx=10 dt=26069.9
+  cand FWD idx=36 dt=13.3952
+nav: FWD idx=36 r=90.333 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=11 dt=56.4722
+  cand BAR idx=10 dt=26149.6
+  cand FWD idx=37 dt=0.0105521
+nav: FWD idx=37 r=90.3364 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=11 dt=56.4592
+  cand BAR idx=10 dt=26148.3
+  cand FWD idx=38 dt=37.0275
+nav: FWD idx=38 r=102.149 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=11 dt=19.433
+  cand BAR idx=10 dt=26345.8
+  cand FWD idx=39 dt=2.5325
+nav: FWD idx=39 r=102.957 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=11 dt=16.9003
+  cand BAR idx=10 dt=26365.8
+  cand FWD idx=40 dt=0.527605
+nav: FWD idx=40 r=103.125 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=11 dt=16.3706
+  cand BAR idx=10 dt=26360
+  cand FWD idx=41 dt=0.266973
+nav: FWD idx=41 r=103.21 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=80.8552
+  cand FWD idx=5 dt=0.105523
+nav: FWD idx=5 r=103.244 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=80.7496
+  cand FWD idx=6 dt=4.7327
+nav: FWD idx=6 r=104.754 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=76.0169
+  cand FWD idx=7 dt=13.7834
+nav: FWD idx=7 r=109.151 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=62.2334
+  cand FWD idx=8 dt=83.9519
+nav: BAR idx=0 r=129 z=379.876 nextFwdIdx=8 prevFwdIdx=7
+  cand BAR idx=1 dt=74.0197
+  cand BAR idx=0 dt=26922.8
+  cand FWD idx=8 dt=21.7185
+nav: FWD idx=8 r=135.926 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=1 r=152.6 z=450.022 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=524.064 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=3 r=300 z=888.931 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=374.162 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-11.7755 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-12.919 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-22.2093 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=7.46035 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=19 r=9.82015 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: BAR idx=3 r=10.76 z=-35.0821 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=18 r=12.8309 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: BAR idx=4 r=14.9436 z=-47.4885 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=17 r=16.6739 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=5 r=17.6 z=-55.3664 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=21.5796 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=6 r=25.1679 z=-77.8093 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=27.336 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=14 r=36.3423 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: BAR idx=7 r=37.5951 z=-114.657 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=13 r=43.1675 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=46.0398 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=51.1978 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: BAR idx=8 r=52.6774 z=-159.389 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=10 r=57.9406 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=61.4089 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=66.6931 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=9 r=68.7739 z=-207.13 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=7 r=73.6416 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=76.7442 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=10 r=86.0594 z=-258.4 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=88.2845 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=88.2879 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=100.119 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=100.928 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=101.097 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=101.182 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=101.216 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=102.728 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=107.13 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: BAR idx=0 r=129 z=-385.796 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=1 r=133.94 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=1 r=152.6 z=-455.853 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-529.801 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=3 r=300 z=-894.193 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=372.492 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.619 CEST
+nav: BAR idx=0 r=2.9 z=12.6654 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=14.4165 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=5.68153 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=28.6461 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=7.2213 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=23 r=9.1867 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=3 r=10.76 z=48.3699 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=11.6957 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=25 r=14.8985 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=4 r=14.9436 z=67.3728 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=5 r=17.6 z=79.4354 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=18.6576 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=27 r=24.5382 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=6 r=25.1679 z=113.801 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=28 r=28.9949 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=30.8711 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: FWD idx=30 r=34.2402 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: BAR idx=7 r=37.5951 z=170.238 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=31 r=38.6436 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=40.9085 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=44.3588 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=48.8958 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=50.9218 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=8 r=52.6774 z=238.743 nextFwdIdx=36 prevFwdIdx=35
+nav: FWD idx=36 r=58.4577 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=9 dt=47.9861
+  cand BAR idx=8 dt=39315
+  cand FWD idx=37 dt=0.0102396
+nav: FWD idx=37 r=58.4599 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=9 dt=47.9845
+  cand BAR idx=8 dt=39313.6
+  cand FWD idx=38 dt=35.9304
+nav: FWD idx=38 r=66.183 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=9 dt=12.0541
+  cand BAR idx=8 dt=39656.7
+  cand FWD idx=39 dt=2.45748
+nav: FWD idx=39 r=66.7113 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=9 dt=9.59658
+  cand BAR idx=8 dt=39688.8
+  cand FWD idx=40 dt=0.511975
+nav: FWD idx=40 r=66.8213 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=9 dt=9.07788
+  cand BAR idx=8 dt=39686.7
+  cand FWD idx=41 dt=0.259072
+nav: FWD idx=41 r=66.8766 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=288.848
+  cand FWD idx=5 dt=0.1024
+nav: FWD idx=5 r=66.8986 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=288.745
+  cand FWD idx=6 dt=4.59263
+nav: FWD idx=6 r=67.8867 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=284.152
+  cand FWD idx=7 dt=13.3755
+nav: FWD idx=7 r=70.7644 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=270.776
+  cand FWD idx=8 dt=81.4672
+nav: FWD idx=8 r=88.2899 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=585.327 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=692.543 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=805.701 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=244.453 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-13.6827 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-15.4339 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=5.45677 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-29.6689 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=19 r=6.99594 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=18 r=8.96037 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: BAR idx=3 r=10.76 z=-49.4006 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=17 r=11.4685 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=16 r=14.6703 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=4 r=14.9436 z=-68.4096 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=5 r=17.6 z=-80.4795 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=18.4272 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=14 r=24.3043 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: BAR idx=6 r=25.1679 z=-114.866 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=13 r=28.7582 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=30.6338 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=34.0019 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: BAR idx=7 r=37.5951 z=-171.322 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=10 r=38.4047 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=40.6694 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=44.1185 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=48.6539 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=50.6792 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=8 r=52.6774 z=-239.848 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=58.2127 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=58.2149 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=65.9365 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=66.4646 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=66.5746 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=66.6304 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=66.6524 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=67.6394 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=70.5136 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=88.0181 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-586.785 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-694.131 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-807.426 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=243.993 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.620 CEST
+nav: BAR idx=0 r=2.9 z=12.4803 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=14.3325 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=5.56784 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=29.3858 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=7.02349 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=23 r=8.88172 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=3 r=10.76 z=50.2474 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=11.2539 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=25 r=14.2819 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=4 r=14.9436 z=70.3473 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=5 r=17.6 z=83.1104 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=17.8347 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=27 r=23.3926 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=6 r=25.1679 z=119.472 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=28 r=27.6047 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=29.3776 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: FWD idx=30 r=32.5612 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=36.7228 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: BAR idx=7 r=37.5951 z=179.192 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=32 r=38.8634 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=42.1241 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=46.4119 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=48.3264 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=8 r=52.6774 z=251.684 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=9 dt=79.0362
+  cand BAR idx=8 dt=41310.2
+  cand FWD idx=36 dt=13.6017
+nav: FWD idx=36 r=55.4477 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=9 dt=65.4345
+  cand BAR idx=8 dt=41456.3
+  cand FWD idx=37 dt=0.0102142
+nav: FWD idx=37 r=55.4498 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=9 dt=65.4164
+  cand BAR idx=8 dt=41455.2
+  cand FWD idx=38 dt=35.8418
+nav: FWD idx=38 r=62.7503 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=9 dt=29.5736
+  cand BAR idx=8 dt=41824.1
+  cand FWD idx=39 dt=2.45142
+nav: FWD idx=39 r=63.2496 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=9 dt=27.1205
+  cand BAR idx=8 dt=41854.7
+  cand FWD idx=40 dt=0.510715
+nav: FWD idx=40 r=63.3536 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=9 dt=26.6015
+  cand BAR idx=8 dt=41852.8
+  cand FWD idx=41 dt=0.258425
+nav: FWD idx=41 r=63.4062 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=322.023
+  cand FWD idx=5 dt=0.102144
+nav: FWD idx=5 r=63.427 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=321.92
+  cand FWD idx=6 dt=4.58118
+nav: FWD idx=6 r=64.3605 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=317.339
+  cand FWD idx=7 dt=13.3421
+nav: FWD idx=7 r=67.0791 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=303.996
+  cand FWD idx=8 dt=81.264
+nav: FWD idx=8 r=83.6364 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=618.509 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=732.001 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=851.777 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=231.179 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-15.385 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-17.2368 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=4.96379 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-32.2885 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=19 r=6.41945 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=18 r=8.27681 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=17 r=10.6459 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=3 r=10.76 z=-53.1689 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=13.67 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=4 r=14.9436 z=-73.2929 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=17.2194 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=5 r=17.6 z=-86.0685 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=22.7718 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: BAR idx=6 r=25.1679 z=-122.466 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=13 r=26.9798 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=28.7513 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=31.9325 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=36.0909 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: BAR idx=7 r=37.5951 z=-182.234 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=9 r=38.2299 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=41.4879 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=45.772 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=47.6852 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=8 r=52.6774 z=-254.782 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=54.8017 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=54.8038 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=62.0987 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=62.5976 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=62.7015 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=62.7539 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=62.7747 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=63.707 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=66.4219 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=82.9568 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-622.076 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-735.721 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-855.66 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=230.301 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.621 CEST
+nav: BAR idx=0 r=2.9 z=13.1321 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=14.8251 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=5.67099 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=28.5796 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=7.26455 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=23 r=9.29821 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=3 r=10.76 z=47.6399 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=11.8945 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=4 r=14.9436 z=66.0032 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=15.209 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=5 r=17.6 z=77.66 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=19.0991 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=6 r=25.1679 z=110.869 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=25.1845 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=29.7961 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=31.7383 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: FWD idx=30 r=35.226 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: BAR idx=7 r=37.5951 z=165.394 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=31 r=39.7844 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=42.1292 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=45.7014 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=50.3988 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=52.4957 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=8 r=52.6774 z=231.567 nextFwdIdx=36 prevFwdIdx=35
+nav: FWD idx=36 r=60.2955 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=9 dt=38.1661
+  cand BAR idx=8 dt=38033.5
+  cand FWD idx=37 dt=0.0102564
+nav: FWD idx=37 r=60.2978 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=9 dt=38.1441
+  cand BAR idx=8 dt=38032.4
+  cand FWD idx=38 dt=35.9905
+nav: FWD idx=38 r=68.2954 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=9 dt=2.15349
+  cand BAR idx=8 dt=38365.3
+  cand FWD idx=39 dt=2.4616
+nav: BAR idx=9 r=68.7739 z=302.2 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=10 dt=77.7911
+  cand BAR idx=9 dt=38296.7
+  cand FWD idx=39 dt=0.308104
+nav: FWD idx=39 r=68.8424 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=10 dt=77.4907
+  cand BAR idx=9 dt=38323.7
+  cand FWD idx=40 dt=0.51283
+nav: FWD idx=40 r=68.9564 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=10 dt=76.9992
+  cand BAR idx=9 dt=38321
+  cand FWD idx=41 dt=0.259488
+nav: FWD idx=41 r=69.014 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=270.134
+  cand FWD idx=5 dt=0.102565
+nav: FWD idx=5 r=69.0368 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=270.032
+  cand FWD idx=6 dt=4.60002
+nav: FWD idx=6 r=70.0587 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=265.432
+  cand FWD idx=7 dt=13.397
+nav: FWD idx=7 r=73.0346 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=252.034
+  cand FWD idx=8 dt=81.5983
+nav: FWD idx=8 r=91.1583 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=566.629 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=670.304 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=779.728 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=252.636 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-12.3348 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-14.0276 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=5.8529 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-27.7818 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=19 r=7.44582 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=18 r=9.47847 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: BAR idx=3 r=10.76 z=-46.8518 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=17 r=12.0733 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=4 r=14.9436 z=-65.2286 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=15.3851 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=5 r=17.6 z=-76.8972 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=19.2712 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=6 r=25.1679 z=-110.141 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=25.3504 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=29.9572 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=31.8965 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=35.3791 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: BAR idx=7 r=37.5951 z=-164.736 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=10 r=39.9312 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=42.2727 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=45.8397 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=50.5302 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=52.6248 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=8 r=52.6774 z=-231 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=60.416 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=60.4182 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=68.4037 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: BAR idx=9 r=68.7739 z=-301.727 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=2 r=68.9499 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=69.0637 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=69.1212 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=69.144 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=70.1644 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=73.1362 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=91.2348 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-566.523 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-670.342 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-779.917 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=252.488 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.623 CEST
+nav: BAR idx=0 r=2.9 z=12.826 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=14.2527 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=6.27065 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=25.8456 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=8.16093 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=23 r=10.5742 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=3 r=10.76 z=41.9104 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=13.6552 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=4 r=14.9436 z=57.386 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=17.5881 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=5 r=17.6 z=67.2122 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=22.2027 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=6 r=25.1679 z=95.2065 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=29.4208 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=34.8904 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=37.1934 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: BAR idx=7 r=37.5951 z=141.186 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=30 r=41.3289 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=46.7344 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=49.5148 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: BAR idx=8 r=52.6774 z=196.988 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=33 r=53.7508 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=59.321 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: FWD idx=35 r=61.8081 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: BAR idx=9 r=68.7739 z=256.544 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=10 dt=66.2636
+  cand BAR idx=9 dt=32158.2
+  cand FWD idx=36 dt=8.75953
+nav: FWD idx=36 r=71.0591 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=10 dt=57.504
+  cand BAR idx=9 dt=32240.9
+  cand FWD idx=37 dt=0.010359
+nav: FWD idx=37 r=71.0618 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=10 dt=57.4959
+  cand BAR idx=9 dt=32239.7
+  cand FWD idx=38 dt=36.3496
+nav: FWD idx=38 r=80.5438 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=10 dt=21.1443
+  cand BAR idx=9 dt=32509.3
+  cand FWD idx=39 dt=2.48617
+nav: FWD idx=39 r=81.1923 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=10 dt=18.6579
+  cand BAR idx=9 dt=32531.4
+  cand FWD idx=40 dt=0.517953
+nav: FWD idx=40 r=81.3274 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=10 dt=18.1495
+  cand BAR idx=9 dt=32527
+  cand FWD idx=41 dt=0.262073
+nav: FWD idx=41 r=81.3959 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=182.644
+  cand FWD idx=5 dt=0.103586
+nav: FWD idx=5 r=81.4229 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=182.54
+  cand FWD idx=6 dt=4.64584
+nav: FWD idx=6 r=82.6342 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=177.894
+  cand FWD idx=7 dt=13.5304
+nav: FWD idx=7 r=86.1617 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=164.363
+  cand FWD idx=8 dt=82.4111
+nav: FWD idx=8 r=107.644 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=479.572 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=567.028 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=659.336 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=298.897 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-8.62784 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-10.0547 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-21.6479 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=7.40509 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=19 r=9.29588 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: BAR idx=3 r=10.76 z=-37.7141 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=18 r=11.708 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=17 r=14.7874 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=4 r=14.9436 z=-53.1981 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=5 r=17.6 z=-63.0298 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=18.718 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=15 r=23.3298 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=6 r=25.1679 z=-91.0418 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=30.5441 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=36.0114 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: BAR idx=7 r=37.5951 z=-137.045 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=12 r=38.312 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=42.4433 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=47.8435 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=50.6213 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: BAR idx=8 r=52.6774 z=-192.901 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=8 r=54.8537 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=60.419 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: FWD idx=6 r=62.9044 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: BAR idx=9 r=68.7739 z=-252.502 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=5 r=72.1492 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=72.1519 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=81.628 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=82.2761 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=82.4111 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=82.4797 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=82.5067 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=83.718 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=87.2459 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=108.73 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-475.54 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-562.987 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-655.286 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=299.999 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.624 CEST
+nav: BAR idx=0 r=2.9 z=14.6346 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=16.282 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=5.39559 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=29.6698 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=22 r=7.03236 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: FWD idx=23 r=9.12197 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: BAR idx=3 r=10.76 z=48.2198 nextFwdIdx=24 prevFwdIdx=23
+nav: FWD idx=24 r=11.7902 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=4 r=14.9436 z=66.0921 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=15.1954 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: BAR idx=5 r=17.6 z=77.4419 nextFwdIdx=26 prevFwdIdx=25
+nav: FWD idx=26 r=19.1906 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=6 r=25.1679 z=109.777 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=25.4403 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=30.1747 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=32.1673 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: FWD idx=30 r=35.7454 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: BAR idx=7 r=37.5951 z=162.91 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=31 r=40.4225 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=42.8283 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=46.4928 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=51.3114 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: BAR idx=8 r=52.6774 z=227.407 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=35 r=53.4636 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=36 r=61.469 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=9 dt=32.0809
+  cand BAR idx=8 dt=37023.5
+  cand FWD idx=37 dt=0.01027
+nav: FWD idx=37 r=61.4714 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=9 dt=32.071
+  cand BAR idx=8 dt=37022.3
+  cand FWD idx=38 dt=36.0372
+nav: BAR idx=9 r=68.7739 z=296.238 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=10 dt=75.9221
+  cand BAR idx=9 dt=37240.7
+  cand FWD idx=38 dt=3.96627
+nav: FWD idx=38 r=69.677 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=10 dt=71.9581
+  cand BAR idx=9 dt=37271.2
+  cand FWD idx=39 dt=2.46478
+nav: FWD idx=39 r=70.2382 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=10 dt=69.4955
+  cand BAR idx=9 dt=37301.2
+  cand FWD idx=40 dt=0.513496
+nav: FWD idx=40 r=70.3551 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=10 dt=68.9896
+  cand BAR idx=9 dt=37297.5
+  cand FWD idx=41 dt=0.259828
+nav: FWD idx=41 r=70.4142 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=257.439
+  cand FWD idx=5 dt=0.102699
+nav: FWD idx=5 r=70.4376 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=257.336
+  cand FWD idx=6 dt=4.60603
+nav: FWD idx=6 r=71.4862 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=252.73
+  cand FWD idx=7 dt=13.4145
+nav: FWD idx=7 r=74.5399 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=239.314
+  cand FWD idx=8 dt=81.705
+nav: FWD idx=8 r=93.1376 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=553.923 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=654.955 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=761.59 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=258.82 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-10.1442 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-11.7914 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=2 r=6.4181 z=-25.1757 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=6.44719 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=19 r=8.08375 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: FWD idx=18 r=10.1726 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: BAR idx=3 r=10.76 z=-43.7339 nextFwdIdx=18 prevFwdIdx=17
+nav: FWD idx=17 r=12.839 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=4 r=14.9436 z=-61.6156 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=16.2426 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: BAR idx=5 r=17.6 z=-72.9703 nextFwdIdx=16 prevFwdIdx=15
+nav: FWD idx=15 r=20.2359 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=6 r=25.1679 z=-105.321 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=26.4815 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=31.2108 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=33.2016 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: FWD idx=11 r=36.7766 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: BAR idx=7 r=37.5951 z=-158.504 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=10 r=41.4482 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=43.8512 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=47.5111 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=52.3239 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=8 r=52.6774 z=-223.081 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=6 r=54.473 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=5 r=62.4671 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=62.4694 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: BAR idx=9 r=68.7739 z=-292.015 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=3 r=70.6615 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=71.2218 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=71.3385 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=71.3976 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=71.4209 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=72.4677 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=75.5163 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=94.0824 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-550.134 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-651.338 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-758.154 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=259.482 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 17-Oct-2026 21:34:33.625 CEST
+nav: BAR idx=0 r=2.9 z=18.2816 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=20.6269 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=21 r=4.0538 z=25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=22 r=5.2039 z=32.295 nextFwdIdx=22 prevFwdIdx=21
+nav: BAR idx=2 r=6.4181 z=39.6791 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=23 r=6.67198 z=41.223 nextFwdIdx=23 prevFwdIdx=22
+nav: FWD idx=24 r=8.5463 z=52.62 nextFwdIdx=24 prevFwdIdx=23
+nav: BAR idx=3 r=10.76 z=66.0795 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=25 r=10.939 z=67.168 nextFwdIdx=25 prevFwdIdx=24
+nav: FWD idx=26 r=13.745 z=84.238 nextFwdIdx=26 prevFwdIdx=25
+nav: BAR idx=4 r=14.9436 z=91.5324 nextFwdIdx=27 prevFwdIdx=26
+nav: BAR idx=5 r=17.6 z=107.699 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=27 r=18.1329 z=110.942 nextFwdIdx=27 prevFwdIdx=26
+nav: FWD idx=28 r=21.4582 z=131.18 nextFwdIdx=28 prevFwdIdx=27
+nav: FWD idx=29 r=22.8582 z=139.7 nextFwdIdx=29 prevFwdIdx=28
+nav: BAR idx=6 r=25.1679 z=153.757 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=30 r=25.3722 z=155 nextFwdIdx=30 prevFwdIdx=29
+nav: FWD idx=31 r=28.6591 z=175 nextFwdIdx=31 prevFwdIdx=30
+nav: FWD idx=32 r=30.3498 z=185.288 nextFwdIdx=32 prevFwdIdx=31
+nav: FWD idx=33 r=32.9253 z=200.959 nextFwdIdx=33 prevFwdIdx=32
+nav: FWD idx=34 r=36.3119 z=221.567 nextFwdIdx=34 prevFwdIdx=33
+nav: BAR idx=7 r=37.5951 z=229.372 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=35 r=37.8248 z=230.769 nextFwdIdx=35 prevFwdIdx=34
+nav: FWD idx=36 r=43.4523 z=265 nextFwdIdx=36 prevFwdIdx=35
+  cand BAR idx=8 dt=56.8703
+  cand BAR idx=7 dt=52262.9
+  cand FWD idx=37 dt=0.0101343
+nav: FWD idx=37 r=43.4539 z=265.01 nextFwdIdx=37 prevFwdIdx=36
+  cand BAR idx=8 dt=56.8628
+  cand BAR idx=7 dt=52261.3
+  cand FWD idx=38 dt=35.5611
+nav: FWD idx=38 r=49.2222 z=300.1 nextFwdIdx=38 prevFwdIdx=37
+  cand BAR idx=8 dt=21.3005
+  cand BAR idx=7 dt=52744.7
+  cand FWD idx=39 dt=2.43223
+nav: FWD idx=39 r=49.6168 z=302.5 nextFwdIdx=39 prevFwdIdx=38
+  cand BAR idx=8 dt=18.8675
+  cand BAR idx=7 dt=52785.1
+  cand FWD idx=40 dt=0.506714
+nav: FWD idx=40 r=49.699 z=303 nextFwdIdx=40 prevFwdIdx=39
+  cand BAR idx=8 dt=18.3581
+  cand BAR idx=7 dt=52783.8
+  cand FWD idx=41 dt=0.256399
+nav: FWD idx=41 r=49.7406 z=303.253 nextFwdIdx=41 prevFwdIdx=40
+  cand BAR idx=0 dt=488.721
+  cand FWD idx=5 dt=0.101343
+nav: FWD idx=5 r=49.757 z=303.353 nextFwdIdx=5 prevFwdIdx=4
+  cand BAR idx=0 dt=488.62
+  cand FWD idx=6 dt=4.54525
+nav: FWD idx=6 r=50.4944 z=307.838 nextFwdIdx=6 prevFwdIdx=5
+  cand BAR idx=0 dt=484.074
+  cand FWD idx=7 dt=13.2375
+nav: FWD idx=7 r=52.6421 z=320.9 nextFwdIdx=7 prevFwdIdx=6
+  cand BAR idx=0 dt=470.835
+  cand FWD idx=8 dt=80.6267
+nav: FWD idx=8 r=65.7222 z=400.458 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=0 r=129 z=785.484 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=1 r=152.6 z=929.145 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=2 r=177.5 z=1080.7 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=9 r=182.314 z=1110 nextFwdIdx=9 prevFwdIdx=8
+nav: BAR idx=0 r=2.9 z=-16.9871 nextFwdIdx=21 prevFwdIdx=20
+nav: BAR idx=1 r=3.28549 z=-19.3321 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=20 r=4.26688 z=-25.3 nextFwdIdx=21 prevFwdIdx=20
+nav: FWD idx=19 r=5.41724 z=-32.295 nextFwdIdx=20 prevFwdIdx=19
+nav: BAR idx=2 r=6.4181 z=-38.38 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=18 r=6.88573 z=-41.223 nextFwdIdx=19 prevFwdIdx=18
+nav: FWD idx=17 r=8.76032 z=-52.62 nextFwdIdx=18 prevFwdIdx=17
+nav: BAR idx=3 r=10.76 z=-64.7753 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=16 r=11.1537 z=-67.168 nextFwdIdx=17 prevFwdIdx=16
+nav: FWD idx=15 r=13.9608 z=-84.238 nextFwdIdx=16 prevFwdIdx=15
+nav: BAR idx=4 r=14.9436 z=-90.2139 nextFwdIdx=15 prevFwdIdx=14
+nav: BAR idx=5 r=17.6 z=-106.366 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=14 r=18.3525 z=-110.942 nextFwdIdx=15 prevFwdIdx=14
+nav: FWD idx=13 r=21.6808 z=-131.18 nextFwdIdx=14 prevFwdIdx=13
+nav: FWD idx=12 r=23.082 z=-139.7 nextFwdIdx=13 prevFwdIdx=12
+nav: BAR idx=6 r=25.1679 z=-152.384 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=11 r=25.5982 z=-155 nextFwdIdx=12 prevFwdIdx=11
+nav: FWD idx=10 r=28.887 z=-175 nextFwdIdx=11 prevFwdIdx=10
+nav: FWD idx=9 r=30.5787 z=-185.288 nextFwdIdx=10 prevFwdIdx=9
+nav: FWD idx=8 r=33.1557 z=-200.959 nextFwdIdx=9 prevFwdIdx=8
+nav: FWD idx=7 r=36.5444 z=-221.567 nextFwdIdx=8 prevFwdIdx=7
+nav: BAR idx=7 r=37.5951 z=-227.955 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=6 r=38.0579 z=-230.769 nextFwdIdx=7 prevFwdIdx=6
+nav: FWD idx=5 r=43.6879 z=-265 nextFwdIdx=6 prevFwdIdx=5
+nav: FWD idx=4 r=43.6895 z=-265.01 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=49.4616 z=-300.1 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=49.8564 z=-302.5 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=49.9386 z=-303 nextFwdIdx=2 prevFwdIdx=1
+nav: FWD idx=0 r=49.9801 z=-303.253 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=4 r=49.9966 z=-303.353 nextFwdIdx=5 prevFwdIdx=4
+nav: FWD idx=3 r=50.7341 z=-307.838 nextFwdIdx=4 prevFwdIdx=3
+nav: FWD idx=2 r=52.8818 z=-320.9 nextFwdIdx=3 prevFwdIdx=2
+nav: FWD idx=1 r=65.9628 z=-400.458 nextFwdIdx=2 prevFwdIdx=1
+nav: BAR idx=0 r=129 z=-783.993 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=1 r=152.6 z=-927.644 nextFwdIdx=1 prevFwdIdx=0
+nav: BAR idx=2 r=177.5 z=-1079.19 nextFwdIdx=1 prevFwdIdx=0
+nav: FWD idx=0 r=182.563 z=-1110 nextFwdIdx=1 prevFwdIdx=0
+17-Oct-2026 21:34:33 CEST  Closed file file:step1-gen.root

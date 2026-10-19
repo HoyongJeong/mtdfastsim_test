@@ -1,0 +1,7 @@
+# MTD FastSim output
+process.FEVTDEBUGoutput.outputCommands += [
+    'keep PSimHits_fastSimProducer_FastTimerHitsBarrel_*',
+    'keep PSimHits_fastSimProducer_FastTimerHitsEndcap_*',
+    'keep *_generatorSmeared_*_*',
+    'keep *_genParticles_*_*',
+]

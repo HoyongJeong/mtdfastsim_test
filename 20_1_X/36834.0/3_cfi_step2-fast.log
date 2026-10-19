@@ -1,0 +1,6 @@
+SIM,ENDJOB
+We have determined that this is simulation (if not, rerun cmsDriver.py with --data)
+entry file:step1-gen.root
+Step: SIM Spec: 
+Step: ENDJOB Spec: 
+Config file step2-fast_cfg.py created

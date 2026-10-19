@@ -1,0 +1,12 @@
+%MSG-w Configuration:  (NoModuleName) 21-Aug-2026 14:03:09 CEST pre-events
+ignoring obsolete parameter 'forceEventSetupCacheClearOnNewRun'
+%MSG
+21-Aug-2026 14:03:21 CEST  Initiating request to open file file:step1-gen.root
+21-Aug-2026 14:03:23 CEST  Successfully opened file file:step1-gen.root
+21-Aug-2026 14:03:33 CEST  Closed file file:step1-gen.root
+----- Begin Fatal Exception 21-Aug-2026 14:03:33 CEST-----------------------
+An exception of category 'DictionaryNotFound' occurred while
+   [0] Constructing the EventProcessor
+Exception Message:
+No Dictionary for class: 'GenEventInfoProduct'
+----- End Fatal Exception -------------------------------------------------

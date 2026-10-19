@@ -1,0 +1,11 @@
+----- Begin Fatal Exception 15-Oct-2026 01:40:32 CEST-----------------------
+An exception of category 'ConfigFileReadError' occurred while
+   [0] Processing the python configuration file named step2-fast_cfg.py
+Exception Message:
+ unknown python problem occurred.
+AttributeError: 'Process' object has no attribute 'RECOSIMoutput'
+
+At:
+  step2-fast_cfg.py(115): <module>
+
+----- End Fatal Exception -------------------------------------------------
